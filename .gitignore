@@ -1,0 +1,5 @@
+# Results directory
+__pycache__/
+results/
+*.png
+*.csv
